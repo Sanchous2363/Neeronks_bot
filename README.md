@@ -16,7 +16,7 @@ deepseek-ai_deepseek-coder-6.7b-instruct
 
 #Как работать:![Безымянный](https://github.com/Sanchous2363/Neeronks_bot/assets/151240556/92020a70-5060-4623-a6ec-f6990fd51870)
 
-> [Uploa# Example: reuse your existing OpenAI setup
+ [Uploa# Example: reuse your existing OpenAI setup
 from openai import OpenAI
 
 >Point to the local server
@@ -32,6 +32,7 @@ completion = client.chat.completions.create(
 )
 
 print(completion.choices[0].message)ding ррр.py…]() 
+'''
 
 ![ppp](https://github.com/Sanchous2363/Neeronks_bot/assets/151240556/726d8ecf-aed7-4d78-9585-3bc0d3b59f4c)
 > Так то лучше)
